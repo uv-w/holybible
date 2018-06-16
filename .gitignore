@@ -1,3 +1,7 @@
 _site
 *.mobi
 *.epub
+.idea/holybible.iml
+.idea/inspectionProfiles/
+.idea/modules.xml
+.idea/workspace.xml
